@@ -2,7 +2,7 @@
 A responsive single-page portfolio hosted on AWS S3 and served via CloudFront (HTTPS).
 
 ## 🔗 Live URL
-https://YOUR-CLOUDFRONT-DOMAIN.cloudfront.net
+d3u10rcnd98wh1.cloudfront.net
 
 ## 🛠️ Tech Stack
 - HTML5 / CSS3
